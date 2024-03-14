@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1705409688 source:d:\facultate\proiect electron\electron\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+	<conio.h>
+	<tchar.h>
+
