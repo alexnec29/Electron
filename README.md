@@ -1,7 +1,7 @@
 # Electron - Electronic Circuit Editor
 
 ## Description
-During the Introduction to Programming course, I worked on the **Electron project**, an electronic circuit editor designed to allow users to add, remove, rotate, and resize components, create connections between them, and test circuit validity. Components were loaded from text files in a PostScript format, with circuits being saved and loaded as text files. My role involved writing and testing code for circuit control and interaction using C/C++ and troubleshooting technical challenges This experience strengthened my programming skills, deepened my understanding of electronic circuits, and enhanced my ability to collaborate effectively in a small team setting.
+During the Introduction to Programming course, I worked on the **Electron project**, an electronic circuit editor designed to allow users to add, remove, rotate, and resize components, create connections between them, and test circuit validity. Components were loaded from text files in a PostScript format, with circuits being saved and loaded as text files. My role focused on writing and refining C/C++ code for circuit control and interaction, continuously testing and troubleshooting until all functionalities worked as expected. This experience strengthened my programming skills, deepened my understanding of electronic circuits, and enhanced my ability to collaborate effectively in a small team setting.
 
 ## Overview
 **Electron** is an electronic circuit editor built in **C++** using **Code::Blocks** and **graphics.h** for rendering.  
